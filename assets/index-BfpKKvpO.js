@@ -25164,11 +25164,6 @@ const J$ = A.createContext(),
                           cursor: "pointer",
                         },
                       },
-                      children: I.jsx(Rt, {
-                        variant: "subtitle1",
-                        sx: { textAlign: "left" },
-                        children: "Documentation",
-                      }),
                     }),
                     I.jsx(Ee, {
                       sx: {
@@ -25184,11 +25179,7 @@ const J$ = A.createContext(),
                           cursor: "pointer",
                         },
                       },
-                      children: I.jsx(Rt, {
-                        variant: "subtitle1",
-                        sx: { textAlign: "left" },
-                        children: "Buy Apollo Tokens",
-                      }),
+                      
                     }),
                   ],
                 }),
